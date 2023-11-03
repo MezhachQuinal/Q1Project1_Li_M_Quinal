@@ -1,0 +1,201 @@
+@import url('https://fonts.cdnfonts.com/css/norwester');
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.menubar{
+    height: 14vh;
+    background-color: rgb(148, 127, 158);
+}
+.logo{
+    display: inline-block;
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.logo img{
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+}
+.home a{
+    display: inline-block;
+    float: left;
+    font-family: 'Norwester', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+    margin-left: 15px;
+    text-decoration: none;
+}
+.pages a{
+    display: inline-block;
+    float: right;
+    font-family: 'Norwester', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+    margin-right: 15px;
+    text-decoration: none;
+}
+.footer{
+    height: 10vh;
+    background-color: rgb(146, 149, 149);
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+.footer h3{
+    display: inline-block;
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Norwester', sans-serif;
+}
+body{
+    background-color: rgb(164, 153, 189);
+}
+.body h1{
+    display: inline-block;
+    float: center;
+    margin-left: 50vh;
+    margin-top: 15vh;
+    color: rgb(255, 255, 255);
+    font-family: 'Norwester', sans-serif;
+    font-size: 50px;
+}
+.body p{
+    display: inline-block;
+    float: center;
+    margin-top: 30px;
+    margin-left: 62vh;
+    margin-right: 58vh;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Norwester', sans-serif;
+    font-size: 30px;
+}
+.body h3 a{
+    display: inline-block;
+    float: center;
+    margin-left: 85vh;
+    margin-top: 25px;
+    color: rgb(255, 255, 255);
+    font-family: 'Norwester', sans-serif;
+    background-color: rgb(84, 84, 84);
+    padding: 30px 100px;
+    text-decoration: none;
+}
+.body4 h1{
+    display: inline-block;
+    float: right;
+    margin-top: 17vh;
+    margin-right: 470px;
+    color: rgb(255, 255, 255);
+    font-family: 'Norwester', sans-serif;
+    font-size: 50px;
+}
+.body4 img{
+    display: inline-block;
+    float: left;
+    margin-top: -50vh;
+    margin-left: 25vh;
+    height: 275px;
+}
+.introduction {
+    display: inline-block;
+    float: right;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    font-family: 'Norwester', sans-serif;
+    margin-right: 180px;
+    margin-left: 120vh;
+    font-size: 20px;
+}
+.introduction p{
+    padding: 7px;
+}
+.body2 img{
+    display: inline-block;
+    float: right;
+    margin-right: 200px;
+    margin-top: 80px;
+    height: 55vh;
+}
+.body2 h1{
+    display: inline-block;
+    float: left;
+    margin-top: 10vh;
+    margin-left: 2vh;
+    color: rgb(255, 255, 255);
+    font-family: 'Norwester', sans-serif;
+    font-size: 50px;
+}
+.body2 p{
+    display: inline-block;
+    float: left;
+    margin-top: -50vh;
+    margin-left: 25vh;
+    margin-right: 120vh;
+    padding: 5vh;
+    color: rgb(255, 255, 255);
+    font-family: 'Norwester', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+.body2 h4{
+    display: inline-block;
+    float: left;
+    margin-top: -25vh;
+    margin-left: 25vh;
+    margin-right: 120vh;
+    padding: 5vh;
+    color: rgb(255, 255, 255);
+    font-family: 'Norwester', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+.body3 h3{
+    display: inline-block;
+    float: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    color: rgb(250, 250, 250);
+    font-family: 'Norwester', sans-serif;
+    font-size: 30px;
+}
+.body3 img{
+    display: inline-block;
+    height: 45vh;
+    margin-top: 15vh;
+    margin-left: -39vh;
+    margin-right: 200px;
+}
+.body5 h1{
+    display: inline-block;
+    float: left;
+    margin-top: 5vh;
+    margin-left: 52vh;
+    font-size: 50px;
+    color: rgb(250, 250, 250);
+    font-family: 'Norwester', sans-serif;
+}
+.body5 p{
+    display: inline-block;
+    float: right;
+    font-size: 20px;
+    margin-left: 100vh;
+    margin-right: 40vh;
+    margin-top: 20vh;
+    color: rgb(255, 255, 255);
+    font-family: 'Norwester', sans-serif;
+}
+.body5 img{
+    display: inline-block;
+    float: left;
+    height: 50vh;
+    margin-top: -25vh;
+    margin-left: 50vh;
+}
